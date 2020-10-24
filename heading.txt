@@ -1,0 +1,58 @@
+Verified proprietor,proper inspection and rectification in property by consumer using virtual and augumented reality,secure end to end encrypted transactions and document verification through blockchain technology  by the means of an andriod application 
+
+Description --
+              We are implementing all our ideas  and the required technologies through an android application 
+              Our compteters are many real estate bussiness websites and applications which are lacking security of user's data 
+              and verification of proprietor  and also lack transaction facilties.
+
+              Description of the application-:	
+             					1-The app shows various real estate properties available for the buyers with all the necessary 						  		  information regarding the property.
+						2-highly secure and fast transaction  with the use of blockchain.
+						3-End to end encrypted communication so  that there is no intermediary in between by 						                              use crytography.
+						4-Security of the uploaded documents of consumer by encoding them. 
+						5-Real estate agents can use VR technology provided in the application  to show both the
+ 						  exterior and interior of properties that aren’t built yet so 
+						  that clients can get a clear look at what’s being offered.
+						6-Enhanced customer experience by providing virtual tours of the properties and descriptions of 
+						  neighborhood helping clients get all the information needed before real visits.
+						7-AR technology enables users to assemble products ,
+						  virtual furniture at the purchase site to determine if the furniture
+						  meets their needs.
+                                                8-Descriptive profile section of real estate agent showing his identity(proving that he is a 						                  official worker of the company).
+                                                9-The application provides the buyer with the following documents related to the property
+										  a)-RERA approval
+										  b)-NGT approval
+										  c)-Pollution approval
+										  d)-Occupation certificate of the group selling the property
+										  e)-Completion certificate(updated)
+						  so that the registration proces can be easy. 
+					        10-The description of property includes 
+							a)-Location by GPS
+							b)-Distance from the police station,Hospital,Market,School,Railway station.
+							c)-Special fecilities(if any)
+
+Core user scenarios--
+	the  targeted audience includes all the users that are interested in any type of real estate property.
+	We have a test case such that a user logs-in and enter his details in our app and then searches for the desired property and then takes a 	visual tour(using the vr technology) of all the interested properties and then after finding his preferrences he checks the details of 		the property and the profile of the registered agent for the authencity of the agent and the property,after that he communicates with the 	agent using an end to end encrypted communication system,during the communication all the documents that are exchanged will be encrypted 		and accessible only to the agent and the client  verifying the authenticity of the client.All the documents like NGT,Pollution approval 		,RERA approval etc.will be provided to the user so that he can  easily verify and register the property.The payment mode is also provided 	in the application with the technology of blockchain for the secure transactions.
+
+
+Tech Stack--
+	    1)-Technology-#Android:-80 percent of the users use this platform
+                          #Blockchain:-The most secure technology for messaging and transactions
+                          #Augumented Reality:-To provide the peak tech exprience to the user
+	    2)-Platform-
+			  #Android Studio:-Because of the powerful tools it provide to make the android application
+            3)-Language-
+			  #Java:-Most reliable and stable language for android application development
+            		  #Xml:-No specific reason
+            4)-Framework-
+			  #ARcore:-Easy integration with android studio
+                          #BitcoinJ:-Easy to use
+             		  #Material Design:-Easy integration with android studio
+Solution--
+	The application will be built in android studio using java as the major backend language and xml for the front end.
+	For the front end of the application we are going to use xml and Google material theme library in our application to make the interface 	more user friendly and to make the workflow easy.
+	For the database mangement we will be using the Android Studio Firebase Assistant to store and retrieve the deatils of the user,agent and 	the transactions.
+	For the virtual tour facility we will be using the integration of google ARcore in android studio for better user experience.
+	The communication facility between the user and the agent will be implemented using the blockchain technology which will be used in 	android studio with the help of BitcoinJ java library that will make the communication end-to-end encrypted and fast.
+	The secure transaction will be provided with the help of Bitcoin technology implemented through blockchain.This will nullify the chances 	of hacking or altering the  transaction data.This will also increase the transparency of the data.

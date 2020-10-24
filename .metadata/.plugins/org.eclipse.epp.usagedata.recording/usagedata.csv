@@ -1,0 +1,60 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.workbench.texteditor,3.7.0.v20110505-0800,"org.eclipse.ui.workbench.texteditor",1573835400294
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1573835400294
+started,bundle,org.eclipse.update.core,3.2.500.v20110330,"org.eclipse.update.core",1573835400309
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1573835400309
+started,bundle,org.eclipse.emf.common,2.7.0.v20120127-1122,"org.eclipse.emf.common",1573835400309
+started,bundle,org.eclipse.emf.ecore,2.7.0.v20120127-1122,"org.eclipse.emf.ecore",1573835400372
+started,bundle,org.eclipse.emf.ecore.xmi,2.7.0.v20120127-1122,"org.eclipse.emf.ecore.xmi",1573835400372
+started,bundle,org.eclipse.wb.core,1.8.0.r45x201506110820,"org.eclipse.wb.core",1573835400372
+started,bundle,org.eclipse.wb.core.java,1.8.0.r45x201506110821,"org.eclipse.wb.core.java",1573835400388
+started,bundle,org.eclipse.wb.core.lib,1.8.0.r45x201506110820,"org.eclipse.wb.core.lib",1573835400497
+started,bundle,org.eclipse.wb.core.xml,1.8.0.r45x201506110823,"org.eclipse.wb.core.xml",1573835400497
+started,bundle,org.eclipse.wb.rcp.databinding,1.8.0.r45x201506110827,"org.eclipse.wb.rcp.databinding",1573835400513
+started,bundle,org.eclipse.wb.swing.databinding,1.8.0.r45x201506110826,"org.eclipse.wb.swing.databinding",1573835400544
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.201.v201201101553,"org.eclipse.wst.common.project.facet.core",1573835400544
+started,bundle,org.eclipse.wst.web,1.1.501.v201201190400,"org.eclipse.wst.web",1573835400544
+started,bundle,com.android.ide.eclipse.base,23.0.7.2120684,"com.android.ide.eclipse.base",1573835400544
+os,sysinfo,,,"win32",1573835400544
+arch,sysinfo,,,"x86",1573835400544
+ws,sysinfo,,,"win32",1573835400544
+locale,sysinfo,,,"en_US",1573835400544
+processors,sysinfo,,,"8",1573835400544
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1573835400544
+java.runtime.version,sysinfo,,,"1.7.0_17-b02",1573835400544
+java.specification.name,sysinfo,,,"Java Platform API Specification",1573835400544
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1573835400544
+java.specification.version,sysinfo,,,"1.7",1573835400544
+java.vendor,sysinfo,,,"Oracle Corporation",1573835400544
+java.version,sysinfo,,,"1.7.0_17",1573835400544
+java.vm.info,sysinfo,,,"mixed mode",1573835400544
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1573835400544
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1573835400544
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1573835400544
+java.vm.specification.version,sysinfo,,,"1.7",1573835400544
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1573835400544
+java.vm.version,sysinfo,,,"23.7-b01",1573835400544
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201106061540,"org.eclipse.epp.usagedata.ui",1573835401570
+started,bundle,org.eclipse.jsch.core,1.1.300.I20110514-0800,"org.eclipse.jsch.core",1573835401748
+started,bundle,org.eclipse.team.cvs.core,3.3.400.I20110510-0800,"org.eclipse.team.cvs.core",1573835401749
+started,bundle,org.eclipse.team.ui,3.6.100.I20110525-0800,"org.eclipse.team.ui",1573835401945
+started,bundle,org.eclipse.team.cvs.ui,3.3.400.I20110510-0800,"org.eclipse.team.cvs.ui",1573835402026
+started,bundle,com.android.ide.eclipse.adt,23.0.7.2120684,"com.android.ide.eclipse.adt",1573835402763
+started,bundle,org.eclipse.cdt.codan.ui.cxx,2.0.0.201202111925,"org.eclipse.cdt.codan.ui.cxx",1573835404809
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1573835405075
+started,bundle,org.eclipse.cdt.make.core,7.1.2.201202111925,"org.eclipse.cdt.make.core",1573835407399
+started,bundle,org.eclipse.cdt.managedbuilder.core,8.0.2.201202111925,"org.eclipse.cdt.managedbuilder.core",1573835407556
+started,bundle,org.eclipse.cdt.core,5.3.2.201202111925,"org.eclipse.cdt.core",1573835407697
+started,bundle,org.eclipse.ui.navigator,3.5.100.v20110809-2227,"org.eclipse.ui.navigator",1573835407875
+started,bundle,org.eclipse.cdt.ui,5.3.2.201202111925,"org.eclipse.cdt.ui",1573835408027
+started,bundle,org.eclipse.cdt.make.ui,7.1.2.201202111925,"org.eclipse.cdt.make.ui",1573835408066
+started,bundle,org.eclipse.cdt.codan.core.cxx,1.0.0.201202111925,"org.eclipse.cdt.codan.core.cxx",1573835408258
+started,bundle,org.eclipse.cdt.codan.core,2.0.0.201202111925,"org.eclipse.cdt.codan.core",1573835408291
+started,bundle,org.eclipse.cdt.codan.checkers,1.0.1.201202111925,"org.eclipse.cdt.codan.checkers",1573835408326
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1573835410637
+deactivated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1573835410778
+activated,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1573835414295
+closed,workbench,org.eclipse.ui.workbench,3.7.0.I20110519-0100,"",1573835414701
+started,bundle,org.eclipse.compare,3.5.201.R37x_v20110817-0800,"org.eclipse.compare",1573835415764
+error,log,,,"Unhandled event loop exception",1573835418716
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.700.v201104070312,"org.eclipse.jst.ws.axis.creation.ui",1573835418873
